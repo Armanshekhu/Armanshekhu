@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Arman Shekhu
 
-💻 Full Stack MERN Developer  
+💻 Android Developer  
 🎓 B.Tech Computer Science Student at Lovely Professional University  
 
 I enjoy building scalable web applications, designing robust backend systems, and solving complex problems using data structures and algorithms.  
@@ -145,10 +145,9 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ---
 
-## 🏆 LeetCode Stats
+<!--## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/armanshekhu786)
-
+## ![LeetCode Stats](https://leetcard.jacoblin.cool/armanshekhu786)-->
 ---
 
 ## 🥇 LeetCode Badges
