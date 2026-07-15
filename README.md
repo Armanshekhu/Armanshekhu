@@ -3,12 +3,12 @@
   <img src="https://camo.githubusercontent.com/44ac22079d5722896781d6ce34c140067f361e39e3e3b88673d702142c6ddd2d/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f41567658734567556647446e417031305f384d6b45753163623553537a5f32695779467153672d6c4539764f4f4d6577387152666a434e616962584743386259497879446c7362414d383271663651535731615a714d726f6d356e4e57363664634b575070356c69594e54334568793171736759703270437762386c4d622d48476277742d434d54456746352d584c73784d382f73313630302f696d616765312e676966" width="100%"/>
 </p>
 
-<!-- <h1 align="center">Hi 👋 I'm Arman Shekhu</h1>
-<h3 align="center">📱 Android & Mobile App Developer | Kotlin • Flutter • Jetpack Compose</h3> -->
+<h1 align="center">Hi 👋 I'm Arman Shekhu</h1>
+<h3 align="center">📱 Android & Mobile App Developer | Kotlin • Flutter • Jetpack Compose</h3> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00796B&height=200&section=header&text=ArmanShekhu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/arman-shekhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
