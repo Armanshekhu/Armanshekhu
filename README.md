@@ -8,22 +8,15 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=Armanshekhu" />
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=pramodpandit72&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
----
-
 ## 🧑‍💻 Programming Languages
 
 <p align="center">
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br>Kotlin</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="60"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>Dart</td>
 </tr>
 </table>
 </p>
@@ -163,3 +156,86 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 🔗 LinkedIn  
 https://linkedin.com/in/arman-shekhu
+<h1 align="center">Hi there, I'm Arman 👋</h1>
+<h3 align="center">📱 Android & Mobile App Developer | Kotlin • Java • Jetpack Compose</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+beautiful+Android+apps+%F0%9F%93%B2;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Turning+ideas+into+apps%2C+one+commit+at+a+time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00796B&height=200&section=header&text=ArmanShekhu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I'm currently building **Android apps** with modern tools like Jetpack Compose & Kotlin Coroutines
+- 🌱 Currently exploring **Kotlin Multiplatform (KMP)** and **Firebase**
+- 💡 I love turning UI/UX designs into pixel-perfect, performant apps
+- ⚡ Fun fact: I debug better with coffee ☕ in hand
+- 📫 Reach me at: **your.email@example.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,figma,gradle,sqlite,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MVVM-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanShekhu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanShekhu&theme=radical&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShekhu&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArmanShekhu&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanShekhu&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArmanShekhu&label=Profile%20Views&color=00C853&style=for-the-badge" />
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/ArmanShekhu">ArmanShekhu</a> — Let's build something great!</i></p>
