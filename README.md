@@ -26,7 +26,7 @@
 - 🔭 Currently focused on **MVVM architecture, Jetpack Compose, Flutter, and Firebase-backed apps**
 - 🌱 Exploring **Kotlin Multiplatform (KMP)** for sharing logic across platforms
 - 🧩 I enjoy solving problems with data structures & algorithms, and shipping polished, performant mobile UI
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **armanshekhu786@example.com**
 
 ---
 
